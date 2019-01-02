@@ -1,1 +1,1 @@
-web: java -jar target/videochat.war
+mvn clean install && java -jar target/videochat.war
